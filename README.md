@@ -15,7 +15,7 @@ Intro course to the Game Development Program
 <p><strong>Green Pod (Tuesday Thursday)</strong></p>
 <p><strong><a href="https://meet.goto.com/VertexRoom3/new-meeting" target="_blank" rel="noopener">https://meet.goto.com/VertexRoom3/gamedavgreenpodmatt</a></strong></p>
 <hr />
-<h2>Courses</h2>
+<h2>Supplemental Course Resources</h2>
 <p><strong>Game Development Bootcamp</strong><span>&nbsp;</span>- This course is your 12 weeks where you will learn the game art pipeline. This is where you will find your assignments.</p>
 <p><strong><a class="inline_disabled" href="https://vertexschool.instructure.com/courses/172" target="_blank" rel="noopener">Intro to Game Art (GAP17)</a></strong><span>&nbsp;- This course is your first 6 weeks where you will learn the game art pipeline. This is where you will find your assignments.</span></p>
 <p><strong><a class="inline_disabled" href="https://vertexschool.instructure.com/courses/151" target="_blank" rel="noopener">Game Artist Toolkit</a></strong><span>&nbsp;</span>- This course contains the library of Game Artist Foundations content. This is supplemental to help you on your journey.</p>
