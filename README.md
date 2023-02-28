@@ -1,7 +1,7 @@
 # GDP_001_LandingBay
 Intro course to the Game Development Program
 
-https://github.com/mattAtVertex/GDP_001_LandingBay/blob/main/milestones.txt
+<a href= https://github.com/mattAtVertex/GDP_001_LandingBay/blob/main/milestones.txt target="_blank" </a>
 
 <h2>Class Information</h2>
 <p><strong>Designation:</strong><span>&nbsp;</span>GDP 001</p>
