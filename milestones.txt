@@ -1,0 +1,20 @@
+Game Development I
+
+Goal: Comfortable working in Unreal and build your first game.
+
+Tag: Learn how to build worlds while diving into Blueprint and becoming a Material Wizard. Top it off with a taste of essential Technical Art skills to make the game building process faster and easier. Then, start building your first game using Unreal Engine 5. Learn how to create gameplay mechanics, user interfaces, and level design. 
+
+Milestones:
+
+Getting Started with Unreal
+World Building
+Intro to Unreal Materials
+Intro to Unreal Blueprint
+Tech Art Essentials I: Materials
+Tech Art Essentials II: Blueprint
+Your First Game: Gameplay Mechanics
+Your First Game: Intro to UI with UMG
+Your First Game: Level Design
+Your First Game: Polishing the Project
+Your First Game: Feedback
+Your First Game: Final Presentation
